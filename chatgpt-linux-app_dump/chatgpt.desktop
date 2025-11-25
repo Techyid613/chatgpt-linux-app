@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ChatGPT 
+Comment=ChatGPT Desktop App 
+Exec=chatgpt
+Icon=chatgpt
+Terminal=false
+Type=Application
+StartupWMClass=chat.openai.com

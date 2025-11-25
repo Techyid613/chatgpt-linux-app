@@ -1,0 +1,8 @@
+Package: chatgpt-linux-app
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Anonymous <none>
+Description: Linux desktop launcher for ChatGPT using Chrome App Mode
+ Provides multiple tiling launch modes and a native-feeling launcher experience.

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=ChatGPT (Full)
+Exec=chatgpt-full.sh
+Icon=chatgpt
+Type=Application
+StartupWMClass=chat.openai.com
