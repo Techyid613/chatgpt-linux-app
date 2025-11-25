@@ -83,7 +83,7 @@ chatgpt linux launcher chrome chromium brave wmctrl desktop productivity
 
 ---
 
-## 📄 License — GPLv3 (Strong Copyleft)
+## 📄 License — GPLv3
 
 This project is licensed under the **GNU GPLv3**.  
 Derivative work must remain open-source under GPLv3.
